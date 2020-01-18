@@ -4,4 +4,4 @@ the purpose of this repository is to provide examples for teaching purposes
 
 #TODO complete this readme
 
-making a change online editor
+some change I will want to remove safely
